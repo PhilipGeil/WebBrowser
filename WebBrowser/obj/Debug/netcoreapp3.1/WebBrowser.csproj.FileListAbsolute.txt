@@ -1,0 +1,13 @@
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.exe
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.deps.json
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.runtimeconfig.json
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.runtimeconfig.dev.json
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.dll
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\bin\Debug\netcoreapp3.1\WebBrowser.pdb
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.csprojAssemblyReference.cache
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.AssemblyInfoInputs.cache
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.AssemblyInfo.cs
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.dll
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.pdb
+C:\Users\phil2643\source\repos\WebBrowser\WebBrowser\obj\Debug\netcoreapp3.1\WebBrowser.genruntimeconfig.cache
